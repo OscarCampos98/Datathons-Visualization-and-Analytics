@@ -24,7 +24,7 @@ To standardize prices across the cities, all prices were converted to **Canadian
 ## Data Cleaning Process
 The data was cleaned using **Google Colab** with **Python libraries** such as **Pandas** and **re** for preprocessing. You can view the full data cleaning process in the Google Colab file linked below.
 
-[Google Colab: Data Cleaning]([#link-to-colab](https://github.com/OscarCampos98/Datathons-Visualization-and-Analytics/blob/main/DataCleaning_Datathon2.ipynb))
+[Google Colab: Data Cleaning](https://github.com/OscarCampos98/Datathons-Visualization-and-Analytics/blob/main/DataCleaning_Datathon2.ipynb)
 
 ## Analysis Question
 **How do Airbnb property prices vary across different cities, and where are the most expensive properties located within those cities?**
@@ -36,19 +36,19 @@ The data was cleaned using **Google Colab** with **Python libraries** such as **
 ### 1. Average Airbnb Prices Across Major Cities
 This visualization shows the average prices (in CAD) across the three cities: Vancouver, London, and Bangkok. The most expensive city is London, followed by Vancouver, while Bangkok has significantly lower average prices.
 
-![Average Airbnb Prices by City]([./Visualization1_AVGprice.png](https://github.com/OscarCampos98/Datathons-Visualization-and-Analytics/blob/main/Visualization1_AVGprice.png))
+![Average Airbnb Prices by City](https://raw.githubusercontent.com/OscarCampos98/Datathons-Visualization-and-Analytics/main/Visualization1_AVGprice.png)
 
 ### 2. Top 5 Most Expensive and Least Expensive Neighborhoods
 For each city, we analyzed the top 5 most and least expensive neighborhoods. The results show that the most expensive properties are often located outside the city center in Vancouver and London, while in Bangkok, the relationship is less clear.
 
 #### Vancouver Map:
-![Vancouver Map]([./Visualization2_VanMap.png](https://github.com/OscarCampos98/Datathons-Visualization-and-Analytics/blob/main/Visualization2_VanMap.png))
+![Vancouver Map](https://raw.githubusercontent.com/OscarCampos98/Datathons-Visualization-and-Analytics/main/Visualization2_VanMap.png)
 
 #### London Map:
-![London Map]([./Visualization2_LonMap.png](https://github.com/OscarCampos98/Datathons-Visualization-and-Analytics/blob/main/Visualization2_LonMap.png))
+![London Map](https://raw.githubusercontent.com/OscarCampos98/Datathons-Visualization-and-Analytics/main/Visualization2_LonMap.png)
 
 #### Bangkok Map:
-![Bangkok Map]([./Visualization2_BangMap.png](https://github.com/OscarCampos98/Datathons-Visualization-and-Analytics/blob/main/Visualization2_BangMap.png))
+![Bangkok Map](https://raw.githubusercontent.com/OscarCampos98/Datathons-Visualization-and-Analytics/main/Visualization2_BangMap.png)
 
 ---
 
