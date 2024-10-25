@@ -5,7 +5,7 @@
 This project analyzes Airbnb property prices across three major cities: **Vancouver**, **London**, and **Bangkok**. Using datasets from June 2023, we explore the price variations across different neighborhoods, the proximity of expensive listings to city centers, and the relationship between average prices and ratings.
 
 ### Dataset
-The dataset is sourced from the [Inside Airbnb]([http://insideairbnb.com/get-the-data.html](https://drive.google.com/drive/folders/10he8tIAXCZKb9MxdlYYtfKBbDHwqOful)) project, which provides detailed listings of Airbnb properties from 2023. For this project, the following datasets were used:
+The dataset is sourced from the [Inside Airbnb](https://drive.google.com/drive/folders/10he8tIAXCZKb9MxdlYYtfKBbDHwqOful) project, which provides detailed listings of Airbnb properties from 2023. For this project, the following datasets were used:
 - **Vancouver**
 - **London**
 - **Bangkok**
