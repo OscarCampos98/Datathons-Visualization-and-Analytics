@@ -79,5 +79,7 @@ In contrast, the least expensive neighborhoods, like Croydon, are further away f
 ---
 
 ## Conclusion
-**This analysis reveals that Airbnb prices vary significantly across cities and neighborhoods, with the highest prices typically located outside city centers in Vancouver and London, while the relationship between price and proximity to the city center is less clear in Bangkok. Interestingly, price doesn’t necessarily correlate with the highest ratings, as some of the most expensive neighborhoods do not offer the best guest experiences. Additionally, outlier listings (such as the one in Taling Chan, Bangkok) can significantly skew average prices, highlighting the importance of careful interpretation of data when making decisions based on averages.**
+
+This analysis reveals that Airbnb prices vary significantly across cities and neighborhoods, with the highest prices typically located outside city centers in Vancouver and London, while the relationship between price and proximity to the city center is less clear in Bangkok. Interestingly, price doesn’t necessarily correlate with the highest ratings, as some of the most expensive neighborhoods do not offer the best guest experiences. Additionally, outlier listings (such as the one in Taling Chan, Bangkok) can significantly skew average prices, highlighting the importance of careful interpretation of data when making decisions based on averages.
+
 ---
