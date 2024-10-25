@@ -5,7 +5,7 @@
 This project analyzes Airbnb property prices across three major cities: **Vancouver**, **London**, and **Bangkok**. Using datasets from June 2023, we explore the price variations across different neighborhoods, the proximity of expensive listings to city centers, and the relationship between average prices and ratings.
 
 ### Dataset
-The dataset is sourced from the [Inside Airbnb]([http://insideairbnb.com/get-the-data.html](https://drive.google.com/drive/folders/10he8tIAXCZKb9MxdlYYtfKBbDHwqOful)) project, which provides detailed listings of Airbnb properties. For this project, the following datasets were used:
+The dataset is sourced from the [Inside Airbnb]([http://insideairbnb.com/get-the-data.html](https://drive.google.com/drive/folders/10he8tIAXCZKb9MxdlYYtfKBbDHwqOful)) project, which provides detailed listings of Airbnb properties from 2023. For this project, the following datasets were used:
 - **Vancouver**
 - **London**
 - **Bangkok**
@@ -24,7 +24,7 @@ To standardize prices across the cities, all prices were converted to **Canadian
 ## Data Cleaning Process
 The data was cleaned using **Google Colab** with **Python libraries** such as **Pandas** and **re** for preprocessing. You can view the full data cleaning process in the Google Colab file linked below.
 
-[Google Colab: Data Cleaning](#link-to-colab)
+[Google Colab: Data Cleaning]([#link-to-colab](https://github.com/OscarCampos98/Datathons-Visualization-and-Analytics/blob/main/DataCleaning_Datathon2.ipynb))
 
 ## Analysis Question
 **How do Airbnb property prices vary across different cities, and where are the most expensive properties located within those cities?**
@@ -36,19 +36,19 @@ The data was cleaned using **Google Colab** with **Python libraries** such as **
 ### 1. Average Airbnb Prices Across Major Cities
 This visualization shows the average prices (in CAD) across the three cities: Vancouver, London, and Bangkok. The most expensive city is London, followed by Vancouver, while Bangkok has significantly lower average prices.
 
-![Average Airbnb Prices by City](./Visualization1_AVGprice.png)
+![Average Airbnb Prices by City]([./Visualization1_AVGprice.png](https://github.com/OscarCampos98/Datathons-Visualization-and-Analytics/blob/main/Visualization1_AVGprice.png))
 
 ### 2. Top 5 Most Expensive and Least Expensive Neighborhoods
 For each city, we analyzed the top 5 most and least expensive neighborhoods. The results show that the most expensive properties are often located outside the city center in Vancouver and London, while in Bangkok, the relationship is less clear.
 
 #### Vancouver Map:
-![Vancouver Map](./Visualization2_VanMap.png)
+![Vancouver Map]([./Visualization2_VanMap.png](https://github.com/OscarCampos98/Datathons-Visualization-and-Analytics/blob/main/Visualization2_VanMap.png))
 
 #### London Map:
-![London Map](./Visualization2_LonMap.png)
+![London Map]([./Visualization2_LonMap.png](https://github.com/OscarCampos98/Datathons-Visualization-and-Analytics/blob/main/Visualization2_LonMap.png))
 
 #### Bangkok Map:
-![Bangkok Map](./Visualization2_BangMap.png)
+![Bangkok Map]([./Visualization2_BangMap.png](https://github.com/OscarCampos98/Datathons-Visualization-and-Analytics/blob/main/Visualization2_BangMap.png))
 
 ---
 
