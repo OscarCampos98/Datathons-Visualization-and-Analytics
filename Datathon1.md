@@ -1,4 +1,4 @@
-# Airbnb Data Analysis - Datathon 2
+# Airbnb Data Analysis - Datathon 1
 
 ## Project Overview
 
